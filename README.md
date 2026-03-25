@@ -16,6 +16,9 @@ Hi, I'm Vidhyan Jha. A passionate 3rd-year B.E.(Information Technology) student 
 ### 📬 Connect with Me  
 
 <p align="center">
+  <a href="vidhyanjha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+  </a>
   <a href="https://www.linkedin.com/in/vidhyanjha">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
@@ -68,9 +71,7 @@ Hi, I'm Vidhyan Jha. A passionate 3rd-year B.E.(Information Technology) student 
 
 ---
 
-## 🏆 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=FlamingSlayer&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FlamingSlayer&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -78,7 +79,5 @@ Hi, I'm Vidhyan Jha. A passionate 3rd-year B.E.(Information Technology) student 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
 </p>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
