@@ -1,10 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:3a8296,100:091519&text=Flaming%20Slayer&reversal=true&fontColor=61DAFB&&fontSize=45&fontAlignY=47&animation=twinkling&fontAlign=50" />
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=61DAFB&center=true&vCenter=true&width=850&height=100&lines=Full-Stack+Developer;Python+%7C+JavaScript+%7C+Java;Web+Development+%7C+Django+%7C+REST+API;Building+Scalable+Software+Solutions;Open+to+Job+Opportunities" />
+  </a>
+</p>
 # 💫 About Me:
 Hi, I'm Vidhyan Jha. A passionate 3rd-year B.E.(Information Technology) student and aspiring Full-Stack Developer.
 
 💡 *“Crafting Efficient and Dynamic Web Experience”*
+<br>
 
+- :computer: I’m passionate about building scalable software solutions and solving real-world problems.
+- :student: I’m currently learning `Full Stack Development` and `TypeScript`.
+- :nerd_face: Continuously improving my skills and exploring modern technologies.
+- :thinking: Open to new `job opportunities` where I can contribute and grow.
+- :boom: You can visit [MY WEBSITE](https://vishnunportfolio.netlify.app/).
 ---
 
 <div align="center">
