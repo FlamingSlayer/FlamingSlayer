@@ -26,15 +26,18 @@ Hi, I'm Vidhyan Jha. A passionate 3rd-year B.E.(Information Technology) student 
 ### 📬 Connect with Me  
 
 <p align="center">
-  <a href="vidhyanjha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
-  </a>
-  <a href="https://www.linkedin.com/in/vidhyanjha">
-    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
-  </a>
+ <a href="mailto:vidhyanjha@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+</a>
   <a href="https://www.instagram.com/flaming_slayer_7">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
+  <a href="https://www.linkedin.com/in/vidhyanjha">
+  <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
+</a>
+  <a href="https://t.me/Flaming_7">
+  <img src="https://img.shields.io/badge/Telegram-091519?style=for-the-badge&logo=telegram&logoColor=61DAFB" />
+</a>
 </p>
 
 <p align="center">
