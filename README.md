@@ -63,7 +63,7 @@ Hi, I'm Vidhyan Jha. A passionate 3rd-year B.E.(Information Technology) student 
 ### ⚙️ Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker&theme=light" />
   </a>
 </p>
 
