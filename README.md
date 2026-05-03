@@ -14,7 +14,7 @@ Hi, I'm Vidhyan Jha. A passionate 3rd-year B.E.(Information Technology) student 
 - :student: I’m currently learning `Full Stack Development` and `TypeScript`.
 - :nerd_face: Continuously improving my skills and exploring modern technologies.
 - :thinking: Open to new `job opportunities` where I can contribute and grow.
-- :boom: You can visit [MY WEBSITE](https://vishnunportfolio.netlify.app/).
+- :boom: You can visit [MY WEBSITE](https://flamingprotfolio.netlify.app/).
 ---
 
 <div align="center">
